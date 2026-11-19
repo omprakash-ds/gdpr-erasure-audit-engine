@@ -1,0 +1,4 @@
+duckdb
+networkx
+pypdf
+rapidocr-onnxruntime

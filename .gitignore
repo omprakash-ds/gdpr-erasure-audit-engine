@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+*.zip
+*.duckdb
+*.duckdb.wal
+dataset/
+output.csv
+sample_pred.csv
+check_*.py
+debug_*.py
+log.txt
+.env
